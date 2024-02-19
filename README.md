@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **janithharshana2019@gmail.com**
 
+
+<hr/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/@janithharshan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janithharshan11" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
@@ -28,8 +30,8 @@
     <a href="https://fb.com/janith harshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janith harshana" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/janith harshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janith harshana" height="30" width="40" /></a>
 </p>
-
-
+<hr/>
+<hr/>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -69,9 +71,8 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 </p>
+<hr/>
 
-
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshanawaj&show_icons=true&locale=en&layout=compact&theme=dracula" alt="harshanawaj" /></p>
@@ -84,4 +85,3 @@
     &nbsp;
 </h1>
 
-I Love You
