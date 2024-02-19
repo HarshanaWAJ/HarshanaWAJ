@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Hospital Management System](https://github.com/HarshanaWAJ/HospitalManagementSystem)
 
-- 🌱 I’m currently learning about **BSc. (Hons.) in Information Technology, IOT and Machine Learning**
+- 🌱 I’m currently learning about **IOT and Machine Learning**
 
 - 💬 Ask me about **Java, ReactJS, Java Script, Python and anything else**
 
