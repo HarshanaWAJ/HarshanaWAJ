@@ -79,3 +79,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshanawaj&show_icons=true&locale=en&theme=dracula" alt="harshanawaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshanawaj&theme=dracula" alt="harshanawaj" /></p>
+
+<h1 align="center">
+    &nbsp;
+</h1>
+
+I Love You
