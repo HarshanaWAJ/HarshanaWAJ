@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **janithharshana2019@gmail.com**
 
+- ⚡ Fun fact **All things are in the world are Programs**
+
 
 <hr/>
 <h3 align="center">Connect with me:</h3>
