@@ -53,7 +53,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="center">Backend Tools:</h3>
+<h3 align="left">Backend Tools:</h3>
 <p align="center">
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -64,7 +64,7 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="center">Other Relevant Tools:</h3>
+<h3 align="left">Other Relevant Tools:</h3>
 <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
