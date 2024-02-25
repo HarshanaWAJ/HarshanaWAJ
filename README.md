@@ -37,9 +37,12 @@
 <h3 align="center">Languages and Tools:</h3>
 <h3 align="left">Frontend Tools:</h3>
 <p align="center">
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
+    <a href="https://html.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="tailwind" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://css.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="tailwind" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
