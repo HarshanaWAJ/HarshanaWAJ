@@ -55,6 +55,9 @@
 
 <h3 align="center">Backend Tools:</h3>
 <p align="center">
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="tailwind" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;
      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
