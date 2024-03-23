@@ -84,8 +84,6 @@
 <h2 align="center"> 📊 My Statistics:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshanawaj&show_icons=true&locale=en&layout=compact&theme=dracula" alt="harshanawaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshanawaj&show_icons=true&locale=en&theme=dracula" alt="harshanawaj" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshanawaj&theme=dracula" alt="harshanawaj" /></p>
 
 <h1 align="center">
