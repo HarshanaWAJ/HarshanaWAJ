@@ -12,7 +12,7 @@
 
 - 🎓 I’m currently studying **BSc. (Hons.) in Information Technology at SLIIT, Sri Lanka**
 
-- 🔭 I’m currently working on [Lerning Management System](https://github.com/HarshanaWAJ/HospitalManagementSystem)
+- 🔭 I’m currently working on [Lerning Management System](https://github.com/HarshanaWAJ/LmsSystem.git)
 
 - 🌱 I’m currently learning about **IOT, AI and Machine Learning**
 
