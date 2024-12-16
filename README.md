@@ -6,35 +6,42 @@
 
 <h3 align="center">A Passionate Software Engineer from Sri Lanka, Colombo</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harshanawaj&label=Profile%20views&color=0e75b6&style=flat" alt="harshanawaj" /> 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=harshanawaj&label=Profile%20views&color=0e75b6&style=flat" alt="harshanawaj" />
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/@janithharshan11" target="blank"><img src="https://img.shields.io/twitter/follow/@janithharshan11?logo=twitter&style=for-the-badge" alt="@janithharshan11" /></a> 
+<p align="left">
+    <a href="https://twitter.com/@janithharshan11" target="blank">
+        <img src="https://img.shields.io/twitter/follow/@janithharshan11?logo=twitter&style=for-the-badge" alt="@janithharshan11" />
+    </a>
 </p>
 
 - 🎓 I’m currently studying **BSc. (Hons.) in Information Technology at SLIIT, Sri Lanka**.
-
 - 🔭 I’m currently working on [Hospital Management System](https://github.com/HarshanaWAJ/hospital_management_system.git).
-
 - 🌱 I’m currently learning about **IOT, AI, and Machine Learning**.
-
 - 💬 Ask me about **Java, ReactJS, JavaScript, Python, and AI**.
-
 - 📫 How to reach me: **janithharshana2019@gmail.com**.
-
 - ⚡ Fun fact: **All things in the world are Programs**.
 
 <hr/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://twitter.com/@janithharshan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janithharshan11" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/janithharshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janithharshana" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/harshana-w-a-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harshana w.a.j." height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://fb.com/janithharshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janithharshana" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/janithharshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janithharshana" height="30" width="40" /></a>
+    <a href="https://twitter.com/@janithharshan11" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janithharshan11" height="30" width="40" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/janithharshana" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janithharshana" height="30" width="40" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/harshana-w-a-j" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harshana w.a.j." height="30" width="40" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://fb.com/janithharshana" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janithharshana" height="30" width="40" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/janithharshana" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janithharshana" height="30" width="40" />
+    </a>
 </p>
 
 <hr/>
@@ -124,5 +131,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<!--🦶FOOTER-->
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+I use android studio and flutter for mobile application development.
