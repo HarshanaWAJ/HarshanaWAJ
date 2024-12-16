@@ -51,9 +51,6 @@
     <a href="https://css.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     </a>&nbsp;&nbsp;&nbsp;
