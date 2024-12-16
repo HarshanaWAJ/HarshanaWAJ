@@ -90,7 +90,7 @@
     </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Other Relevant Tools:</h3>
+<h3 align="left">Other Relative Tools:</h3>
 <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
