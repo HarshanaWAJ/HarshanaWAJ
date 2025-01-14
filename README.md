@@ -105,14 +105,6 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer">         
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>  
     </a>&nbsp;&nbsp;&nbsp;  
-    <!-- Adding Oracle Database -->
-    <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Oracle_logo.svg" alt="Oracle Database" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;  
-    <!-- Adding Unit Testing -->
-    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/JUnit_logo.svg" alt="JUnit" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;
 </p> 
 
 <hr/>  
