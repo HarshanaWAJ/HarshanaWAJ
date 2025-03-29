@@ -13,7 +13,7 @@
 </p>  
 
 - 🎓 I’m currently studying **BSc. (Hons.) in Information Technology at SLIIT, Sri Lanka**.  
-- 🔭 I’m currently working on [Hospital Management System](https://github.com/HarshanaWAJ/hospital_management_system.git).  
+- 🔭 I’m currently working on [Taxi App]((https://github.com/HarshanaWAJ/sheride.git)).  
 - 🌱 I’m currently learning about **IOT, AI, and Machine Learning**.  
 - 💬 Ask me about **Java, ReactJS, JavaScript, Python, and AI**.  
 - 📫 How to reach me: **janithharshana2019@gmail.com**.  
